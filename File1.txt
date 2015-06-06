@@ -1,2 +1,2 @@
 Add line1
-Add line2_Master
+Add lineMerged
